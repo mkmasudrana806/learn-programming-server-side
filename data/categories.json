@@ -1,0 +1,23 @@
+[
+    {
+        "language_id": "01",
+        "language_name": "JavaScript",
+        "photo_url": "https://i.ytimg.com/vi/jS4aFq5-91M/maxresdefault.jpg",
+        "rating": "4.4",
+        "total_view": "2734"
+    },
+    {
+        "language_id": "02",
+        "language_name": "Java",
+        "photo_url": "https://4.bp.blogspot.com/-p7kTEHr-XhY/XFWSgbGizxI/AAAAAAAAFgc/DoUv-ssH21cnz6oHk7X-rm4_qX-mEjEMACLcBGAs/s1600/core-java-tutorial-for-beginners.png",
+        "rating": "4.0",
+        "total_view": "724"
+    },
+    {
+        "language_id": "03",
+        "language_name": "C Programming",
+        "photo_url": "https://www.bitdegree.org/storage/course-image/736505-u1dRp80wsH-c-programming-for-beginners-with-real-world-examples.jpg",
+        "rating": "4.6",
+        "total_view": "434"
+    }
+]

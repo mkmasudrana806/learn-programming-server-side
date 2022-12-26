@@ -1,0 +1,141 @@
+[
+    {
+        "category_id": "01",
+        "_id": "100",
+        "language_name": "JavaScript",
+        "title": "Introduction to JavaScript And Features",
+        "intro": "JavaScript is the world's most popular programming language.it is a lightweight, interpreted, or just-in-time compiled programming language and it is the programming language of the Web. JavaScript is easy to learn.",
+        "Features": [
+            "Object-Centered Script Language",
+            "Client edge Technology",
+            "Validation of User’s Input",
+            "Ability to perform In Built Function",
+            " Case Sensitive format",
+            " Light Weight and delicate",
+            "Handling Events"
+        ],
+        "photo_url": "",
+        "details": ""
+    },
+    {
+        "category_id": "01",
+        "_id": "101",
+        "language_name": "JavaScript",
+        "title": "JavaScript Data types",
+        "intro": "In this tutorial, you will learn about the various data types available in JavaScript with the help of examples.",
+        "Features": "",
+        "photo_url": "https://miro.medium.com/max/1400/1*z1Cacf_OSbsQ1rYYaQsXYA.png",
+        "details": "JavaScript provides different data types to hold different types of values. There are two types of data types in JavaScript. Primitive data type Non-primitive (reference) data type JavaScript is a dynamic type language, means you don't need to specify type of the variable because it is dynamically used by JavaScript engine. You need to use var here to specify the data type. It can hold any type of values such as numbers, strings etc.JavaScript data types include primitive types: undefined, null, string, boolean, number, BigInt, and symbol, and the complex type object."
+    },
+    {
+        "category_id": "01",
+        "_id": "102",
+        "language_name": "JavaScript",
+        "title": "JavaScript if, else, and else if",
+        "intro": "In this tutorial, you will learn about conditional statements available in JavaScript with the help of examples.",
+        "Features": "",
+        "photo_url": "https://cdn.programiz.com/sites/tutorial2program/files/js-if-else-statement.png",
+        "details": "In JavaScript we have the following conditional statements Use if to specify a block of code to be executed, if specified condition is true Use else to specify a block of code to be executed, if the same condition is falseUse else if to specify a new condition to test, if the first condition is false Use switch to specify many alternative blocks of code to be executed"
+    },
+    {
+        "category_id": "02",
+        "_id": "200",
+        "title": "Introduction to Java And Features",
+        "language_name": "Java",
+        "intro": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems",
+        "Features": [
+            "Object-oriented",
+            "Platform independent",
+            "Dynamic",
+            "Secure",
+            "Compiled and interpreted",
+            " Multi-threaded",
+            "High Performance",
+            "Automatic Garbage Collection",
+            "Robust",
+            "Portable"
+        ],
+        "photo_url": "",
+        "details": ""
+    },
+    {
+        "category_id": "02",
+        "_id": "201",
+        "language_name": "Java",
+        "title": "JavaScript if, else, and else if",
+        "intro": "In this tutorial, you will learn about exception handling  available in java with the help of examples.",
+        "Features": "",
+        "photo_url": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/09/Class-ExcepDemo-with-Exception-Handling.png",
+        "details": "The Exception Handling in Java is one of the powerful mechanism to handle the runtime errors so that the normal flow of the application can be maintained. In this tutorial, we will learn about Java exceptions, it's types, and the difference between checked and unchecked exceptions."
+    },
+    {
+        "category_id": "02",
+        "_id": "202",
+        "language_name": "Java",
+        "title": "java overloading",
+        "intro": "In this tutorial, you will learn about overloading",
+        "Features": "",
+        "photo_url": "https://i.ytimg.com/vi/_iz6cjXlJfw/maxresdefault.jpg",
+        "details": "Method overloading in java is a feature that allows a class to have more than one method with the same name, but with different parameters. Java supports method overloading through two mechanisms: By changing the number of parameters."
+    },
+    {
+        "category_id": "02",
+        "_id": "203",
+        "language_name": "Java",
+        "title": "java overriding",
+        "intro": "In this tutorial, you will learn about overriding in java with the help of examples.",
+        "Features": "",
+        "photo_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/overriding-in-java.png",
+        "details": "In Java, method overriding occurs when a subclass (child class) has the same method as the parent class. In other words, method overriding occurs when a subclass provides a particular implementation of a method declared by one of its parent classes"
+    },
+    {
+        "category_id": "03",
+        "_id": "300",
+        "language_name": "C Programming",
+        "title": "Introduction to C Programming And Features",
+        "intro": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.",
+        "Features": [
+            "Procedural Language",
+            "Fast and Efficient",
+            "Modularity",
+            "Statically Type",
+            "General-Purpose Language",
+            "Rich set of built-in Operators",
+            "Libraries with rich Functions",
+            "Middle-Level Language",
+            "Portability"
+        ],
+        "photo_url": "",
+        "details": ""
+    },
+    {
+        "category_id": "03",
+        "_id": "301",
+        "language_name": "C Programming",
+        "title": " C Programming Function",
+        "intro": "In this tutorial, you will learn about func ition in c programmning language with the help of examples.",
+        "Features": "",
+        "photo_url": "https://www.edureka.co/blog/wp-content/uploads/2019/09/Image-Functions-in-C-Edureka.png",
+        "details": "A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function. Functions are used to perform certain actions, and they are important for reusing code: Define the code once, and use it many times."
+    },
+    {
+        "category_id": "03",
+        "_id": "302",
+        "language_name": "C Programming",
+        "title": "C Programming Array",
+        "intro": "In this tutorial, you will learn about Array And It's types",
+        "Features": "",
+        "photo_url": "https://beginnersbook.com/wp-content/uploads/2014/01/c-arrays.png",
+        "details": "An array is defined as the collection of similar type of data items stored at contiguous memory locations. Arrays are the derived data type in C programming language which can store the primitive type of data such as int, char, double, float, etc. It also has the capability to store the collection of derived data types, such as pointers, structure, etc. The array is the simplest data structure where each data element can be randomly accessed by using its index number.C array is beneficial if you have to store similar elements. For example, if we want to store the marks of a student in 6 subjects, then we don't need to define different variables for the marks in the different subject. Instead of that, we can define an array which can store the marks in each subject at the contiguous memory locations. By using the array, we can access the elements easily. Only a few lines of code are required to access the elements of the array."
+    },
+    {
+        "category_id": "02",
+        "_id": "203",
+        "language_name": "C Programming",
+        "title": "java overriding",
+        "intro": "In this tutorial, you will learn about overriding in java with the help of examples.",
+        "Features": "",
+        "photo_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/overriding-in-java.png",
+        "details": "In Java, method overriding occurs when a subclass (child class) has the same method as the parent class. In other words, method overriding occurs when a subclass provides a particular implementation of a method declared by one of its parent classes"
+    }
+]
