@@ -1,0 +1,27 @@
+[
+    {
+        "blog_id": "01",
+        "title": "What is CORS?",
+        "details": "CORS stands for Cross-Origin Resource Sharing. It allows us to relax the security applied to an API. This is done by bypassing the Access-Control-Allow-Origin headers, which specify which origins can access the API. In other words, CORS is a browser security feature that restricts cross-origin HTTP requests with other servers and specifies which domains access your resources."
+    },
+    {
+        "blog_id": "02",
+        "title": "Why You Should use Firebase?",
+        "details": "Firebase is a less technical and time-saving alternative to writing full-fledged backend code for dynamic apps. You might also want to consider leveraging this tool if you eventually wish to host and manage your app in the cloud. Being serverless, Firebase removes the need to worry about the technicalities of cloud server configuration.As a Google Cloud service, it also gives you access to other Google products and features, like Google Drive and Sheets. For instance, you can import dummy data from Google Sheets and use it temporarily to serve your app."
+    },
+    {
+        "blog_id": "03",
+        "title": "What other options do you have to implement authentication?",
+        "details": "There are a lot of different methods to authenticate people and validate their identities. Different systems need different credentials for confirmation. Depending on each use case, this credential can either be a password, biometric authentication, two-factor authentication, a digital token,Database authentication methods,Token-Based authentication digital certificate, etc. 1. Parse · 2. Back4App · 3. AWS Amplify · 4. Kuzzle · 5. Couchbase · 6. NativeScript · 7. RxDB · 8. Flutter."
+    },
+    {
+        "blog_id": "04",
+        "title": "How Does Private Route Works?",
+        "details": "The react private route component renders child components (children) if the user is logged in. If not logged in the user is redirected to the /login page with the return url passed in the location state property.The current logged in user (authUser) is retrieved from Redux state with a call to the useSelector() hook. Redux is used in this example however it is not required to implement a Private Route component in React Router 6. You could use a different state management library or any approach you prefer to get the logged in status of the user."
+    },
+    {
+        "blog_id": "05",
+        "title": "What is Node? How Does Work it?",
+        "details": "Node.js is an open-source backend javascript runtime environment. It is used as backend service where javascript works on the server-side of the application. This way javascript is used on both frontend and backend. Node.js runs on chrome v8 engine which converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive.Working of Node.js: Node.js accepts the request from the clients and sends the response, while working with the request node.js handles them with a single thread. To operate I/O operations or requests node.js use the concept of threads. Thread is a sequence of instructions that the server needs to perform. It runs parallel on the server to provide the information to multiple clients. Node.js is an event loop single-threaded language. It can handle concurrent requests with a single thread without blocking it for one request."
+    }
+]

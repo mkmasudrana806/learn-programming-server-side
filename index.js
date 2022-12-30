@@ -4,11 +4,13 @@ const cors = require("cors");
 const port = process.env.PORT || 5000;
 
 app.use(cors());
+
 const categories = require("./data/categories.json");
 const categoryTopics = require("./data/languages_details.json");
 const exercise_categories = require("./data/exercise_categories.json");
 const exercises = require("./data/exercises.json");
 const courses = require("./data/courses.json");
+const blogs = require("./data/blogs.json");
 
 app.get("/", (req, res) => {
   res.send("programming server is running");
@@ -51,10 +53,21 @@ app.get("/courses", (req, res) => {
 
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
-  const course = courses.filter((c) => c.course_id === id);
+  const course = courses.find((c) => c.course_id === id);
   res.send(course);
 });
 
+// below api is for blogs
+
+app.get("/blogs", (req, res) => {
+  res.send(blogs);
+});
+
+app.get("/blog/:id", (req, res) => {
+  const id = req.params.id;
+  const blog = blogs.filter((b) => b.blog_id === id);
+  res.send(blog);
+});
 app.listen(port, () => {
   console.log("programming learning server is running");
 });
