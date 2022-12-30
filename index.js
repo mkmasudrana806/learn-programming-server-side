@@ -16,18 +16,18 @@ app.get("/", (req, res) => {
   res.send("programming server is running");
 });
 
-//below api is for exercise
+//api for exercise
 app.get("/exercise-categories", (req, res) => {
   res.send(exercise_categories);
 });
 
 app.get("/exercise-category/:id", (req, res) => {
   const id = req.params.id;
-  const exercise = exercises.filter((e) => e.exercise_id === id);
+  const exercise = exercises.find((e) => e.exercise_id === id);
   res.send(exercise);
 });
 
-// below API is for tutorial
+//API is for tutorial
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
@@ -46,7 +46,7 @@ app.get("/topic-details/:id", (req, res) => {
   res.send(topic);
 });
 
-// below API is for courses
+// API for courses
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
@@ -57,7 +57,7 @@ app.get("/course/:id", (req, res) => {
   res.send(course);
 });
 
-// below api is for blogs
+// api for blogs
 
 app.get("/blogs", (req, res) => {
   res.send(blogs);
