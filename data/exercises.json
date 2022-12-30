@@ -1,0 +1,76 @@
+[
+    {
+        "exercise_id": "01",
+        "exercise_name": "JavaScript Exercise",
+        "covered_topics": "conditional statement, loops, arrays, function etc",
+        "joined": "324",
+        "examples": [
+            "Write a JavaScript program that accept two integers and display the larger.",
+            "Write a JavaScript conditional statement to find the sign of product of three numbers. Display an alert box with the specified sign.",
+            " Write a JavaScript conditional statement to sort three numbers. Display an alert box to show the result.",
+            "Write a JavaScript program to construct the following pattern, using a nested for loop.",
+            "Write a JavaScript program to compute the greatest common divisor (GCD) of two positive integers. ",
+            "Write a JavaScript function to check whether an `input` is an array or not.",
+            "Write a JavaScript function to clone an array.",
+            "Write a simple JavaScript program to join all elements of the following array into a string.",
+            "Write a JavaScript function to find the highest value in an array. ",
+            "Write a JavaScript function to check whether an `input` is a string or not. "
+        ]
+    },
+    {
+        "exercise_id": "02",
+        "exercise_name": "Java Exercise",
+        "covered_topics": "Date and Time, arrays, String etc",
+        "joined": "274",
+        "examples": [
+            "Write a Java program to create a Date object using the Calendar class. ",
+            "Write a Java program to get current full date and time.",
+            "Write a Java program to get a day of the week of a specific date.",
+            "Write a Java program to check a year is a leap year or not. ",
+            "Write a Java program to sort a numeric array and a string array.",
+            "Write a Java program to remove a specific element from an array.",
+            "Write a Java program to find the maximum and minimum value of an array. ",
+            "rite a Java program to find the common elements between two arrays of integers.",
+            "Write a Java program to get the character (Unicode code point) before the specified index within the String."
+        ]
+    },
+    {
+        "exercise_id": "03",
+        "exercise_name": "C Programming Exercise",
+        "covered_topics": "pointers, matrix, File Handling etc",
+        "joined": "324",
+        "examples": [
+            "Write a C program to create, initialize and use pointers.",
+            "Write a C program to add two numbers using pointers.",
+            "Write a C program to access two dimensional array using pointers.",
+            "Write a C program to add two matrices.",
+            "Write a C program to perform Scalar matrix multiplication.",
+            "Write a C program to find sum of upper triangular matrix.",
+            "Write a C program to read numbers from a file and write even, odd and prime numbers to separate file.",
+            "Write a C program to count characters, words and lines in a text file.",
+            "Write a C program to replace specific line in a text file.",
+            "Write a C program to count occurrences of all words in a text file.",
+            "Bitwise operator programming exercises and solutions in C."
+        ]
+    },
+    {
+        "exercise_id": "04",
+        "exercise_name": "C++ Programming Exercise",
+        "covered_topics": "vector, Linked List, numbers etc",
+        "joined": "324",
+        "examples": [
+            "Write a C++ program that returns the elements in a vector that are strictly smaller than their adjacent left and right neighbours.",
+            "Write a C++ program to capitalize the first character of each element of a given string vector. Return the new vector.",
+            "Write a C++ program to verify that all of the letters in the second string appear in the first string as well. Return true otherwise false",
+            "Write a C++ program to create an n x n matrix by taking an integer (n) as input from the user.",
+            "Write a C++ program to create and display a Singly Linked List. ",
+            "Write a C++ program to insert a new node at the beginning of a Singly Linked List. ",
+            "Write a C++ program to find the middle element of a given Linked List.",
+            " Write a C++ program to delete the last node of a Singly Linked List.",
+            "Write a C++ program to create a doubly linked list of n nodes and display it in reverse order. ",
+            "Write a program in C++ to check whether a given number is an ugly number or not.",
+            "Write a program in C++ to find the Abundant numbers (integers) between 1 to 1000.",
+            "Write a C++ program to sort an array of positive integers using the Bead sort algorithm. "
+        ]
+    }
+]

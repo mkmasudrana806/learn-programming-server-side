@@ -1,0 +1,27 @@
+[
+    {
+        "category_id": "01",
+        "category_name": "JavaScript",
+        "rating": "4.7",
+        "total_joined": "3242"
+    },
+    {
+        "category_id": "02",
+        "category_name": "Java",
+        "rating": "4.4",
+        "total_joined": "888"
+    },
+    {
+        "category_id": "03",
+        "category_name": "C Programming",
+        "rating": "4.1",
+        "total_joined": "942"
+    },
+    {
+        "category_id": "04",
+        "category_name": "C++",
+        "rating": "4.0",
+        "total_joined": "738"
+    }
+
+]

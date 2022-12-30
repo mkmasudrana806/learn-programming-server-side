@@ -19,5 +19,12 @@
         "photo_url": "https://www.bitdegree.org/storage/course-image/736505-u1dRp80wsH-c-programming-for-beginners-with-real-world-examples.jpg",
         "rating": "4.6",
         "total_view": "434"
+    },
+    {
+        "language_id": "04",
+        "language_name": "React with JavaScript",
+        "photo_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fGWjtyQtG4JE7UXgaPAN",
+        "rating": "4.8",
+        "total_view": "734"
     }
 ]

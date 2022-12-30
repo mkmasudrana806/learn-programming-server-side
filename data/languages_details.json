@@ -129,13 +129,43 @@
         "details": "An array is defined as the collection of similar type of data items stored at contiguous memory locations. Arrays are the derived data type in C programming language which can store the primitive type of data such as int, char, double, float, etc. It also has the capability to store the collection of derived data types, such as pointers, structure, etc. The array is the simplest data structure where each data element can be randomly accessed by using its index number.C array is beneficial if you have to store similar elements. For example, if we want to store the marks of a student in 6 subjects, then we don't need to define different variables for the marks in the different subject. Instead of that, we can define an array which can store the marks in each subject at the contiguous memory locations. By using the array, we can access the elements easily. Only a few lines of code are required to access the elements of the array."
     },
     {
-        "category_id": "02",
-        "_id": "203",
+        "category_id": "04",
+        "_id": "400",
+        "language_name": "This is just c programing copy api.",
+        "title": "Introduction to C Programming And Features",
+        "intro": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.",
+        "Features": [
+            "Procedural Language",
+            "Fast and Efficient",
+            "Modularity",
+            "Statically Type",
+            "General-Purpose Language",
+            "Rich set of built-in Operators",
+            "Libraries with rich Functions",
+            "Middle-Level Language",
+            "Portability"
+        ],
+        "photo_url": "",
+        "details": ""
+    },
+    {
+        "category_id": "04",
+        "_id": "401",
         "language_name": "C Programming",
-        "title": "java overriding",
-        "intro": "In this tutorial, you will learn about overriding in java with the help of examples.",
+        "title": " C Programming Function",
+        "intro": "In this tutorial, you will learn about func ition in c programmning language with the help of examples.",
         "Features": "",
-        "photo_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/overriding-in-java.png",
-        "details": "In Java, method overriding occurs when a subclass (child class) has the same method as the parent class. In other words, method overriding occurs when a subclass provides a particular implementation of a method declared by one of its parent classes"
+        "photo_url": "https://www.edureka.co/blog/wp-content/uploads/2019/09/Image-Functions-in-C-Edureka.png",
+        "details": "A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function. Functions are used to perform certain actions, and they are important for reusing code: Define the code once, and use it many times."
+    },
+    {
+        "category_id": "04",
+        "_id": "402",
+        "language_name": "C Programming",
+        "title": "C Programming Array",
+        "intro": "In this tutorial, you will learn about Array And It's types",
+        "Features": "",
+        "photo_url": "https://beginnersbook.com/wp-content/uploads/2014/01/c-arrays.png",
+        "details": "An array is defined as the collection of similar type of data items stored at contiguous memory locations. Arrays are the derived data type in C programming language which can store the primitive type of data such as int, char, double, float, etc. It also has the capability to store the collection of derived data types, such as pointers, structure, etc. The array is the simplest data structure where each data element can be randomly accessed by using its index number.C array is beneficial if you have to store similar elements. For example, if we want to store the marks of a student in 6 subjects, then we don't need to define different variables for the marks in the different subject. Instead of that, we can define an array which can store the marks in each subject at the contiguous memory locations. By using the array, we can access the elements easily. Only a few lines of code are required to access the elements of the array."
     }
 ]
